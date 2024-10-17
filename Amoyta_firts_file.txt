@@ -1,0 +1,13 @@
+This is the fisrt file that i created.
+
+Printl("Hello World");
+
+<!Doctype= HTML>
+<html>
+<head>
+  <title>Amoyta</title>
+</head>
+<body>
+  <h1>Hello World</h1>
+</body>
+</html>
